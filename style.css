@@ -1,0 +1,201 @@
+header {
+  display: flex;
+justify-content: center;
+  
+  height: 100px;
+  background-image: url(./asset/fondoprincipal.jpeg);
+}
+
+body {
+  background-image: url(https://w0.peakpx.com/wallpaper/977/202/HD-wallpaper-fencing-sunset-sports-themed.jpg);
+}
+
+nav {
+  display: flex;
+  width: 100%;
+  margin-top: 5px;
+  justify-content: center;
+
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: rgb(255, 253, 253);
+}
+
+li a {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: rgb(255, 226, 171);
+}
+
+li a:hover {
+  background-color: rgb(22, 221, 252);
+  color: rgb(171, 180, 196);
+  color: 0;
+}
+
+.frase {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 300px;
+  justify-content: center;
+}
+
+b {
+  font-size: 50px;
+  font-family: "Times New Roman", Times, serif;
+  color: #aeabab;
+}
+
+h4 {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  font-family: serif;
+  background-color: rgb(241, 199, 81);
+  margin: 20px 30px;
+}
+
+section {
+  display: flex;
+  width: 100%;
+  background-color: rgb(7, 25, 87);
+  justify-content: center;
+  align-items: center;
+
+}
+
+p {
+  display: flex;
+  font-family: fantasy;
+  color: rgb(220, 200, 176);
+
+}
+
+h6 {
+  display: flex;
+  width: 150px;
+  color: rgb(114, 109, 103);
+  font-size: 10px;
+  font-family: sans-serif;
+
+}
+
+.imagen {
+  display: flex;
+  justify-content: center;
+  width: 350px;
+  height: 250px;
+}
+
+.autor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.imagen {
+  display: flex;
+  align-items: center;
+}
+
+h3 {
+  font-size: 25px;
+  width: 150px;
+}
+
+h5 {
+  font-size: 45px;
+  font-family: monospace;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.atack {
+  display: flex;
+  justify-content: stretch;
+  border-radius: 85px;
+  background-color: rgb(7, 25, 87);
+  margin-top: 100px;
+  height: 250px;
+}
+
+.posicion {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+.primero {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: rgb(220, 200, 176);
+}
+
+.ataques {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-left: 85px;
+}
+
+.ataque {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+footer {
+  display: flex;
+  background-color: rgb(7, 25, 87);
+  margin-top: 50px;
+  height: 100px;
+  border-radius: 30px;
+}
+
+.gm {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  margin-left: 400px;
+  margin-right: 30px;
+
+}
+
+.ws {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-right: 30px;
+}
+
+.in {
+  display: flex;
+  enter;
+  justify-content: baseline;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-right: 30px;
+
+}
+
+.logo {
+  display: flex;
+  justify-content: end;
+  margin-top: 10px;
+  margin-left: 50px;
+  margin-right: 30px;
+}

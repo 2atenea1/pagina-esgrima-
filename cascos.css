@@ -1,0 +1,69 @@
+header {
+  background-image: url(./asset/mascara.jpeg);
+}
+
+body {
+  background-image: url(./asset/fondomascara.webp);
+}
+
+nav {
+  display: flex;
+  width: 100%;
+  margin-top: 5px;
+  justify-content: center;
+
+}
+
+li a {
+  justify-content: center;
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  color: rgb(255, 255, 255);
+
+}
+
+li a:hover {
+  background-color: rgb(22, 42, 221);
+  color: rgb(255, 255, 255);
+  color: 0;
+}
+
+section {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 25px;
+
+}
+
+.TITULO {
+  display: flex;
+  justify-content: center;
+  color: rgb(149, 144, 144);
+  font-size: 100px;
+  margin-top: 15px;
+  margin-bottom: 100px;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+  width: 300px;
+  height: 350px;
+}
+
+.lista {
+  display: flex;
+  width: 200px;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+  font-family: cursive;
+  margin-left: 25px;
+  margin-right: 35px;
+  flex-direction: column;
+}

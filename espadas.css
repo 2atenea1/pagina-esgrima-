@@ -1,0 +1,93 @@
+header {
+  background-image: url(./asset/espadas.jpeg);
+
+}
+
+body {
+  background-image: url(./asset/fondoespadas.jpg);
+}
+
+nav {
+  display: flex;
+  width: 100%;
+  margin-top: 5px;
+  justify-content: center;
+
+}
+
+li a {
+  justify-content: center;
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  color: aliceblue;
+}
+
+li a:hover {
+  background-color: rgb(22, 221, 252);
+  color: rgb(171, 180, 196);
+  color: 0;
+}
+
+section {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 25px;
+  background-color: rgb(0, 0, 0);
+}
+.TITULO{
+  display: flex;
+  justify-content: center;
+  color:  rgb(102, 100, 97);
+  font-size: 100px;
+  margin-top: 15px;
+  margin-bottom: 100px;
+}
+
+p {
+  display: flex;
+  font-family: fantasy;
+  color: rgb(255, 255, 255);
+   font-size: 35px;
+   justify-content: center;
+}
+
+h6 {
+  display: flex;
+  width: 150px;
+  justify-content: center;
+  color: rgb(255, 255, 255);
+  font-size:  20px;;
+  font-family:cursive;
+  margin-left: 15px;
+}
+
+.esp {
+  display: flex;
+  width: 400px;
+  height: 350px;
+  margin-left: 25px;
+  margin-right: 30px;
+
+}
+
+
+.flo {
+  display: flex;
+  width: 100px;
+  height: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.sab {
+  display: flex;
+  width: 400px;
+  height: 250px;
+  margin-left: 25px;
+  margin-right: 50px;
+
+}

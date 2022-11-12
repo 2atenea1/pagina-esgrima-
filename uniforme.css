@@ -1,0 +1,91 @@
+header {
+  background-image: url(./asset/uniformefondo.jpeg);
+}
+
+body {
+  background-image: url(./asset/subfondouni.jpg);
+}
+
+nav {
+  display: flex;
+  width: 100%;
+  margin-top: 5px;
+  justify-content: center;
+
+}
+
+li a {
+  justify-content: center;
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  color: rgb(0, 0, 0);
+}
+
+li a:hover {
+  background-color: rgb(53, 8, 255);
+  color: rgb(255, 255, 255);
+  color: 0;
+}
+.TITULO{
+  display: flex;
+  justify-content: center;
+  color:  rgb(255, 255, 255);
+  font-size: 100px;
+  margin-top: 15px;
+  margin-bottom: 100px;
+}
+
+section {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 25px;
+  background-color: rgb(0, 0, 0);
+}
+
+.cha{
+  display: flex;
+width: 400px;
+height: 350px;
+margin-left: 25px;
+margin-right: 30px;
+}
+.gua{
+  display: flex;
+  width: 400px;
+  height: 350px;
+  margin-left: 25px;
+  margin-right: 30px;
+}
+.pet{
+  display: flex;
+  width: 400px;
+  height: 350px;
+  margin-left: 25px;
+  margin-right: 30px;
+}
+.pan{
+  display: flex;
+  width: 400px;
+  height: 350px;
+  margin-left: 25px;
+  margin-right: 30px;
+}
+.med{
+  display: flex;
+  width: 400px;
+  height: 350px;
+  margin-left: 25px;
+  margin-right: 30px;
+}
+p{
+  display: flex;
+  font-family: fantasy;
+  color: rgb(255, 255, 255);
+   font-size: 35px;
+   justify-content: center;
+ }
